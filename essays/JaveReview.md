@@ -11,7 +11,7 @@ labels:
 ---
 
 <div class="text-center p-4">
-<img width="400px" src="../img/difficulty/degree_difficulty.jpg" class="img-thumbnail">
+<img width="400px" src="https://raw.githubusercontent.com/blesssyouu/blesssyouu.github.io/main/img/1_BPSx-c--z6r7tY29L19ukQ.png" class="img-thumbnail">
   </div>
 
 ## As a Newbie
