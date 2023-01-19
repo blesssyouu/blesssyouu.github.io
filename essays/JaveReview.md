@@ -10,7 +10,9 @@ labels:
   - Javascript
 ---
 
-<img width="400px" class="text-center p-4" src="../img/difficulty/degree_difficulty.jpg">
+<div class="text-center p-4">
+<img width="400px" src="../img/difficulty/degree_difficulty.jpg" class="img-thumbnail">
+  </div>
 
 ## As a Newbie
 
