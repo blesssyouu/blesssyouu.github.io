@@ -41,8 +41,8 @@ Anydoes anyone know how to program a sudoku in android studio with c++, with dif
 
 Actually I only know how to do with java
 ```
-The reason this would be considered a bad question is that it's too broad. The simplest answer to this question would be yes because I'm almmost positive there are users on this site completely capable of creating a sudoku program. To improve this question, the user should include some sort of code they've written in an attempt to creat this program while stating what they know and then asking for help on a way to move forward. 
+The reason this would be considered a bad question is that it's too broad. The simplest answer to this question would be yes because I'm almost positive there are users on this site completely capable of creating a sudoku program. To improve this question, the user should include some sort of code they've written in an attempt to create this program while stating what they know and then asking for help on a way to move forward. 
 
 ## Conclusion
 
-When asking questions on Stack Overflow the best thing to keep in mind is that others may run into the same problem in the future so it would be best to write your question in a way that would allow other users to help not only you but anyone else who might need the same answer.
+When asking questions on Stack Overflow, the best thing to keep in mind is that others may run into the same problem in the future so it would be best to write your question in a way that would allow other users to help not only you but anyone else who might need the same answer.
