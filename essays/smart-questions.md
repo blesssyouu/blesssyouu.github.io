@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Smart Questions, Good Answers"
+title: "Don't be afraid to ask questions"
 # All dates must be YYYY-MM-DD format!
 date: 2015-09-08
 published: true
@@ -13,87 +13,36 @@ labels:
 
 <img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/rtfm.png">
 
-## Is there such thing as a stupid question?
+##No question is a dumb question
 
-I’ve had instructors address a whole class and say, “There’s no such thing as a stupid question.” I now know that is in fact not true because I’ve challenged the statement and received the appropriate dumb-stricken, annoyed look. There are definitely stupid questions, and along with that, usually unhelpful answers. Though we all might be guilty of being callous and making people victim to our poorly formed questions, there are steps we can take to ask smarter questions that hopefully don’t illicit the dreaded “rtfm” or “stfw” response.
+All throughout school from kindergarten all the way up through undergrad teachers have always used the phrase, "No question is a dumb question," which I've now learned is wrong. At least in the scope of software engineering there is such a thing as a bad question which can lead to not so helpful answers.
 
-## What’s a smart question?
+## What to look for in a good question?
 
-Stack Overflow, a question and answer site for programmers, is a great resource for anyone who may have issues with code or who may simply want to learn new or different methods of doing something. There I found examples of good questions and bad questions, which could probably be improved.
+Being able to ask a good question is something that has to be learned. A great place to look for examples is a website called Stack Overflow, a site used mainly by programmers looking for help with their code. 
 
-In the following example, we examine the components of a decent question. In this case, the asker is trying to figure out a way to get the date of the previous month in Python.
-
-```
-Q: python date of the previous month
-
-I am trying to get the date of the previous month with python. Here is what i've tried:
-
-str( time.strftime('%Y') ) + str( int(time.strftime('%m'))-1 )
-
-However, this way is bad for 2 reasons: First it returns 20122 for the February of 2012 (instead of 201202) 
-and secondly it will return 0 instead of 12 on January.
-
-I have solved this trouble in bash with:
-
-echo $(date -d"3 month ago" "+%G%m%d")
-
-I think that if bash has a built-in way for this purpose, then python, much more equipped, should provide something 
-better than forcing writing one's own script to achieve this goal. Of course i could do something like:
-
-if int(time.strftime('%m')) == 1:
-    return '12'
-else:
-    if int(time.strftime('%m')) < 10:
-        return '0'+str(time.strftime('%m')-1)
-    else:
-        return str(time.strftime('%m') -1)
-        
-I have not tested this code and i don't want to use it anyway (unless I can't find any other way:/)
-
-Thanks for your help!
-```
-
-While the heading of his question could be better, it does convey what he’s trying to figure out. Usually something as brief as “python date of previous month” is what other users would enter in as search terms on Google, making it easily found. Another good thing about the question is that it’s not just a question. The asker shows what he or she has done and that he or she has put in some effort to answer the question. And while it may not be as important as the question itself, the asker shows courtesy, which does increase the chance of getting an answer.
+In the following [example]  (https://stackoverflow.com/questions/75170936/error-with-websocket-connection-when-trying-to-add-dependencies)the user is able to describe what is happening in the code, the problem when running the code and what they have tried to resolve the problem:
 
 ```
-A: datetime and the datetime.timedelta classes are your friend.
+Q: Error with websocket connection when trying to add dependencies
 
-1. find today
-2. use that to find the first day of this month.
-3. use timedelta to backup a single day, to the last day of the previous month.
-4. print the YYYYMM string you're looking for.
+The useEffect() function receives data continuously through a websocket from a python program. The problem is that when I run the code via the npm start command, I get a data display with a very high frequency and this error continuously in the console :  WebSocket connection to 'ws:<URL>/' failed: WebSocket is closed before the connection is established. But the functions did receive changes to the selectedSection variable based on clicks on the different sections.
 
-Like this:
+I should point out that I used the useEffect() function in this way before, it worked but I didn't have access to the updated version after clicking on one of the sections of the selectedSection variable:
+```
+Below the question they provided a snippet of code he believed was causing the problem along with the entire code for others to play around with to help figure out the issue. It is ideal to do both so that the users trying to answer your question aren't left with a lengthy code to search through and find what is going wrong. The user was able to get 2 answers to this question and resolve the issue so I think it's fair to categorize this question as a good one. 
 
- >>> import datetime
- >>> today = datetime.date.today()
- >>> first = datetime.date(day=1, month=today.month, year=today.year)
- >>> lastMonth = first - datetime.timedelta(days=1)
- >>> print lastMonth.strftime("%Y%m")
- 201202
- >>>
+## "Your question has been closed."
+
+Believe it or not there are a lot more bad questions than good on StackOverflow (they've just got good at filtering them out). The [question] (https://stackoverflow.com/questions/75252834/anydoes-anyone-know-how-to-program-a-sudoku-in-android-studio-with-c) below has -5 votes which means that it will soon be deleted by Stack Overflow since this would be considered a bad question. 
 
 ```
- 
-The asker received six possible answers, and he or she was successful in inciting discussion from multiple users. The answers themselves were clear and were devoid of the rumored sarcasm and hostility of “hackers.” Since I myself have referenced this page and found it useful, I can confidently say that it is a good question.
+Anydoes anyone know how to program a sudoku in android studio with c++, with diferents dificulties
 
-## The foolproof way to get ignored.
-
-While there are decent questions that benefit everyone, there are those one can ask to create an entirely different effect. In the following example, a user asks how he would, in short, create a desktop application with Facebook.
-
+Actually I only know how to do with java
 ```
-Q: Facebook Desktop Notifier
-
-I am a beginner programmer that have never used anything other than what's included in a language.
-
-I am trying to create a desktop application that notifies me anytime I get an update onfacebook. 
-How should go about doing this? Thanks in advance.
-
-edit Sorry I was not clear. Is there any way to make a DESKTOP application with facebook?
-```
-
-A simple “yes” would have answered the question, but we know that’s not the sort of answer he or she is looking for. Fortunately, someone kindly responded with a link to Facebook’s developer website. The asker should have done more research on his or her potential project. Then further down the road, he or she could have asked more specific and detailed questions that wouldn’t require a thousand-paged response for a sufficient answer.
+The reason this would be considered a bad question is that it's too broad. The simplest answer to this question would be yes because I'm almmost positive there are users on this site completely capable of creating a sudoku program. To improve this question, the user should include some sort of code they've written in an attempt to creat this program while stating what they know and then asking for help on a way to move forward. 
 
 ## Conclusion
 
-When we rely on others’ generosity and expertise to provide answers to our questions, it should hold that the question we ask should be one that leads to efficient and effective help that not only benefits us, but also the people we ask and others who might ask the same question in the future. Thus, if you have a question… make it a smart one! Asking questions may not always get you the best answer, but asking them in a way that will make others want to answer them will increase the success of finding a good solution and make it a positive experience on all sides.
+When asking questions on Stack Overflow the best thing to keep in mind is that others may run into the same problem in the future so it would be best to write your question in a way that would allow other users to help not only you but anyone else who might need the same answer.
