@@ -21,7 +21,7 @@ All throughout school from kindergarten all the way up through undergrad teacher
 
 Being able to ask a good question is something that has to be learned. A great place to look for examples is a website called Stack Overflow, a site used mainly by programmers looking for help with their code. 
 
-In the following [example]  (https://stackoverflow.com/questions/75170936/error-with-websocket-connection-when-trying-to-add-dependencies)the user is able to describe what is happening in the code, the problem when running the code and what they have tried to resolve the problem:
+In the following [example](https://stackoverflow.com/questions/75170936/error-with-websocket-connection-when-trying-to-add-dependencies) the user is able to describe what is happening in the code, the problem when running the code and what they have tried to resolve the problem:
 
 ```
 Q: Error with websocket connection when trying to add dependencies
@@ -34,7 +34,7 @@ Below the question they provided a snippet of code he believed was causing the p
 
 ## "Your question has been closed."
 
-Believe it or not there are a lot more bad questions than good on StackOverflow (they've just got good at filtering them out). The [question] (https://stackoverflow.com/questions/75252834/anydoes-anyone-know-how-to-program-a-sudoku-in-android-studio-with-c) below has -5 votes which means that it will soon be deleted by Stack Overflow since this would be considered a bad question. 
+Believe it or not there are a lot more bad questions than good on StackOverflow (they've just got good at filtering them out). The [question](https://stackoverflow.com/questions/75252834/anydoes-anyone-know-how-to-program-a-sudoku-in-android-studio-with-c) below has -5 votes which means that it will soon be deleted by Stack Overflow since this would be considered a bad question. 
 
 ```
 Anydoes anyone know how to program a sudoku in android studio with c++, with diferents dificulties
