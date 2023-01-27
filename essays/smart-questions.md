@@ -11,9 +11,9 @@ labels:
   - StackOverflow
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/rtfm.png">
+<img width="300px" class="rounded float-start pe-4" src="../img/istockphoto-1139500641-612x612.jpg">
 
-##No question is a dumb question
+## No question is a dumb question
 
 All throughout school from kindergarten all the way up through undergrad teachers have always used the phrase, "No question is a dumb question," which I've now learned is wrong. At least in the scope of software engineering there is such a thing as a bad question which can lead to not so helpful answers.
 
