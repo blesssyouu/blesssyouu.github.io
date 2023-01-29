@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Don't be afraid to ask questions"
 # All dates must be YYYY-MM-DD format!
-date: 2015-09-08
+date: 2023-01-26
 published: true
 labels:
   - Questions
