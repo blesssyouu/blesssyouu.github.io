@@ -39,7 +39,7 @@
       "studyType": "B.S.",
       "startDate": "2018-08-01",
       "endDate": "Present",
-      "courses": [
+      "courses": ["Digital Systems & Computer Design", "Discrete Math", "Signals and Systems", "Microelectronic Circuits"
       ]
     }
   ],
@@ -63,8 +63,7 @@
       "endDate": "2022-01-15",
       "summary": "",
       "highlights": [
-        "Ran shifts, helped set the schedules, fulfilled orders and checked inventory",
-        ""
+        "Ran shifts, helped set the schedules, fulfilled orders and checked inventory"
       ]
     }
   ],
@@ -80,32 +79,8 @@
         "Educate others on Native Hawaiian farming.",
         "Spending time reconnecting to my culture and spending time with the ʻāina."
       ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [""
-      ]
     }
-  ],
-  "awards": [
-    {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "summary": ""
-    },
-    {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "summary": ""
-    }
-  ],
+    ]
   "references": [
     {
       "name": "Available upon request"
