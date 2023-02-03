@@ -1,21 +1,22 @@
 ---
 layout: project
 type: project
-image: img/vacay/vacay-square.png
-title: "Vacay"
-date: 2015
+image: img/Copy of DroneTechnologies.png
+title: "VIP University of Hawaiʻi Drone Technologies"
+date: 2019
 published: true
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: "A responsive web application for travel planning that my team developed in ICS 415."
+  - Drones
+  - Robotics
+  - Raspberry Pi
+  - Python
+summary: "We designed and manufactured a qudacopter that can fly and run a mission autonomously for the AUVSI SUAS competition."
 ---
 
-<img class="img-fluid" src="../img/vacay/vacay-home-page.png">
+<img class="img-fluid" src="../img/Copy of DroneTechnologies.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+**About**
+In this VIP (Vertically Integrated Project) the team competes in the AUVSI SUAS competition that takes place in Maryland every year. 
 
 Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
 
