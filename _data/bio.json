@@ -39,8 +39,7 @@
       "studyType": "B.S.",
       "startDate": "2018-08-01",
       "endDate": "Present",
-      "courses": ["Digital Systems & Computer Design", "Discrete Math", "Signals and Systems", "Microelectronic Circuits"
-      ]
+      "courses": ["Digital Systems & Computer Design", "Discrete Math", "Signals and Systems", "Microelectronic Circuits"]
     }
   ],
   "work": [
@@ -51,9 +50,7 @@
       "startDate": "2021-09-01",
       "endDate": "Present",
       "summary": "Head goalkeeper coach for intermediate and junior varsity girls soccer teams.",
-      "highlights": [
-        "Plan and execute practice plans to highlight and work on developing certain skills."
-      ]
+      "highlights": ["Plan and execute practice plans to highlight and work on developing certain skills."]
     },
     {
       "company": "Pieology ",
@@ -62,9 +59,7 @@
       "startDate": "2020-10-12",
       "endDate": "2022-01-15",
       "summary": "",
-      "highlights": [
-        "Ran shifts, helped set the schedules, fulfilled orders and checked inventory"
-      ]
+      "highlights": ["Ran shifts, helped set the schedules, fulfilled orders and checked inventory"]
     }
   ],
   "volunteer": [
