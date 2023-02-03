@@ -10,7 +10,7 @@ labels:
   - Software engineering
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/istockphoto-1139500641-612x612.jpg">
+<img width="300px" class="rounded float-start pe-4" src="../img/college.jpg">
 
 ## The Old Me
 
