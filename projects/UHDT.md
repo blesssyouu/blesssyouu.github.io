@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Copy of DroneTechnologies.png
+image: img/drone.jpeg
 title: "VIP University of Hawaiʻi Drone Technologies"
 date: 2019
 published: true
