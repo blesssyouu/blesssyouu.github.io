@@ -10,7 +10,7 @@ labels:
   - ES Lint
 ---
 
-<img width="100px" class="rounded float-start pe-4" src="../img/igniting/paintbrushes.jpg">
+<img width="100px" class="rounded float-start pe-4" src="../img/eslint.png">
 
 ## New is Always Better
   Since venturing into programming my freshmen year of college, Iʻve always used vim or VS Code as my go to IDE but since switching to ES Lint and IntelliJ, everything is so much cleaner and just better overall. I think my favorite thing about this is that it tells you the errors in your code as you're still working on the program. IntelliJ is a very user-friendly program thats way more visually pleasing than VS Code or VIM and being able to run your program directly to Google Chrome is a new feature that I donʻt necessarily like but it is definitely a cool feature. 
