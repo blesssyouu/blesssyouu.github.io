@@ -22,9 +22,6 @@ Prior to this class I had very little experience designing websites or even usin
 The past couple weeks since weʻve been using HTML in class I think that Iʻve made some pretty great progress. As overwhelming as this class can be, it's one of the few where I feel like I'm actually learning things to apply to my future career. Using HTML alone was harder than being able to add CSS styling and Bootstrap 5. In the images below you can see that I'm now able to recreate website designs (even though it's not perfect) and it truly has given me confidence to learn more and refine my programming skills. 
 <div class="text-center p-4">
 <img width="400px" src="../img/UIimages/Screen Shot 2023-02-21 at 8.07.38 PM.png" class="img-thumbnail">
-  </div>
-  
-  <div class="text-center p-4">
 <img width="400px" src="../img/UIimages/Screen Shot 2023-02-21 at 8.07.48 PM.png" class="img-thumbnail">
   </div>
 
