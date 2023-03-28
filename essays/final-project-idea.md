@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Final Project"
+title: "Near by Now"
 date: 2023-03-28
 published: true
 labels:
