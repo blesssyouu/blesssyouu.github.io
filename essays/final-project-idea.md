@@ -9,8 +9,6 @@ labels:
   - Meteor
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/waterfountain.jpg">
-
 Contributors: Christina Mende, Iwalani Campbell, Amanda Achiu, and Christianne Young
 
 ## Overview
