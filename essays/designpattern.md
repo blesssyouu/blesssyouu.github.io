@@ -9,6 +9,11 @@ labels:
   - Design Patterns
 ---
 
+<div class="text-center p-4">
+<img width="400px" src="https://raw.githubusercontent.com/blesssyouu/blesssyouu.github.io/main/img/patterns.png" class="img-thumbnail">
+  </div>
+
+
 Even though I'll be receiving my degree in computer engineering next semester I still easily consider myself a beginner. Yes, I have experience in certain things from my classes and VIP project but there is still so much to learn about programming. Although there is worlds of information to experience one thing I have learned and come to appreciate is design patterns and knowing when and how to use them.
  
 
