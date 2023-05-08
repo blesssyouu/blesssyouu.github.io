@@ -11,7 +11,7 @@ labels:
   - Development Environments
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/reflection meme.webp">
+<img width="300px" class="rounded float-start pe-4" src="../img/reflection meme.jpg">
 
 ## Throw your expectations out the window
   Going into this Spring 2023 semester I knew my classes were going to be hard but I was mostly worried about ICS 314. Not because it's an extremely difficult class but because I wasn't the most experienced programmer going into this class and knew I'd struggle from the start. Getting used to the style of the class was a big transition in itself having to prepare for the WODs and constant assignments due every week but once I got into the rhythm of things everything was basically smooth sailing. 
