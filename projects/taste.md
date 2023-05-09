@@ -8,6 +8,7 @@ published: true
 labels:
   - Meteor
   - React
+  - Web App
 summary: "A website that allows college students to find easy and cheap recipes for during a busy semester."
 ---
 
