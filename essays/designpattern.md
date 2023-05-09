@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: ""
+title: "Getting in the Groove of Software Engineering"
 date: 2023-04-27
 published: true
 labels:

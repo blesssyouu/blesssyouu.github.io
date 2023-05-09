@@ -4,7 +4,7 @@ type: essay
 title: "What's this error mean?"
 # All dates must be YYYY-MM-DD format!
 date: 2023-02-09
-published: true
+published: false
 labels:
   - Javascript
   - ES Lint

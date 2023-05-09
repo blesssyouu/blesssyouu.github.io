@@ -4,7 +4,7 @@ type: essay
 title: "A Chance to Reinvent Myself"
 # All dates must be YYYY-MM-DD format!
 date: 2023-02-01
-published: true
+published: false
 labels:
   - College
   - Software engineering

@@ -4,7 +4,7 @@ type: essay
 title: "Javascript? Is that some kind of coffee?"
 # All dates must be YYYY-MM-DD format!
 date: 2023-01-18
-published: true
+published: false
 labels:
   - Engineering
   - Javascript
