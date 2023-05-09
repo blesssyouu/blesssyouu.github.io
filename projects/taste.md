@@ -1,8 +1,8 @@
 ---
 layout: project
 type: project
-image: img/cotton/FaS-SimpleBold-transparent.png
-title: "Cotton"
+image: img/FaS-SimpleBold-transparent.png
+title: "Taste Technologists"
 date: 2023
 published: true
 labels:
