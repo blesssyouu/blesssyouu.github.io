@@ -1,0 +1,84 @@
+{
+  "basics": {
+    "name": "Amanda Achiu",
+    "label": "Student",
+    "picture": "https://avatars.githubusercontent.com/u/58012490?s=400&u=d1493f502587f20f10804d6b4fb03b6ca171d8c9&v=4",
+    "email": "aachiu@hawaii.edu",
+    "phone": "951-441-1830",
+    "website": "https://blesssyouu.github.io",
+    "summary": "I am studying for a B.S. in Computer Engineering in the College of Engineering at the University of Hawaiʻi at Mānoa. I expect to graduate in Fall, 2023.",
+    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "blesssyouu", "url": "http://github.com/blesssyouu" },
+      { "network": "linkedin", "username": "amandaachiu", "url": "https://www.linkedin.com/in/amanda-achiu-7b49541b5/" },
+      { "network": "twitter", "username": "amanda_blessyou", "url": "https://twitter.com/amanda_blessyou" },
+      { "network": "instagram", "username": "blesssyouu", "url": "https://www.instagram.com/blesssyouu/" }
+    ]
+  },
+  "interests": [
+    { "name": "Interactive media" },
+    { "name": "App Development" },
+    { "name": "Autonomous Flight for Drones" },
+    { "name": "Robotics" },
+    { "name": "3D Design and Printing" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++", "Java", "Javascript", "Python" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad", "IntelliJ" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaiʻi at Mānoa, Honolulu, HI",
+      "area": "Computer Engineering (expected Fall, 2023)",
+      "studyType": "B.S.",
+      "startDate": "2018-08-01",
+      "endDate": "Present",
+      "courses": ["Digital Systems & Computer Design", "Signals and Systems", "Microelectronic Circuits", "Software Engineering"]
+    }
+  ],
+  "work": [
+    {
+      "company": "Punahou School",
+      "position": "Assistant Coach",
+      "website": "",
+      "startDate": "2021-09-01",
+      "endDate": "Present",
+      "summary": "Head goalkeeper coach for intermediate and junior varsity girls soccer teams.",
+      "highlights": ["Plan and execute practice plans to highlight and work on developing certain skills."]
+    },
+    {
+      "company": "Pieology ",
+      "position": "Assistant Manager",
+      "website": "",
+      "startDate": "2020-10-12",
+      "endDate": "2022-01-15",
+      "summary": "",
+      "highlights": ["Ran shifts, helped set the schedules, fulfilled orders and checked inventory"]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Ka Papa Lo'i Punalu'u with Kānewai",
+      "website": "",
+      "position": "",
+      "startDate": "2022-10-01",
+      "endDate": "Present",
+      "summary": "Help cultivate and care for loʻi patches",
+      "highlights": [
+        "Educate others on Native Hawaiian farming.",
+        "Spending time reconnecting to my culture and spending time with the ʻāina."
+      ]
+    }
+    ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
